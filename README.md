@@ -1,4 +1,3 @@
 # Valodik
 meroncov
-kkminicdscs
-jan asper jan
+jan axper jan
